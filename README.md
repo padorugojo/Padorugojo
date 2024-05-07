@@ -1,4 +1,8 @@
-### EU SOU MATHEUS VINYCIUS E ESTOU NO 2B
+### EU SOU MATHEUS VINYCIUS 
+-Estou no 2B
+-Estou utilizando Alura
+-I AM ATOMIC
+
 
 <!--
 **padorugojo/Padorugojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
